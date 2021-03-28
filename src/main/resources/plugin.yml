@@ -1,0 +1,7 @@
+name: PistonRedstoneStopper
+version: ${project.version}
+main: me.alexprogrammerde.pistonredstonestopper.PistonRedstoneStopper
+api-version: 1.16
+authors: [ AlexProgrammerDE ]
+description: Blocks redstone!
+website: http://pistonmaster..net/
